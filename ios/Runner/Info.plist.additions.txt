@@ -1,0 +1,5 @@
+<!-- Add to Runner/Info.plist if targeting iOS -->
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Precisamos da sua localização para iniciar a caminhada.</string>
+<key>NSCameraUsageDescription</key>
+<string>Precisamos da câmera para registrar uma foto da caminhada.</string>
