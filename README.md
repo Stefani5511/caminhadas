@@ -39,7 +39,7 @@ flutter pub get
 flutter run
 ```
 
-> Para testar o GPS e a câmera, utilize um dispositivo Android ou um emulador Android.
+Para testar o GPS e a câmera, utilize um dispositivo Android ou um emulador Android.
 
 
 ## Screenshots
