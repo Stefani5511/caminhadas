@@ -1,4 +1,4 @@
-# caminhadas
+# Caminhadas
 
 App desenvolvido em Flutter para registrar e acompanhar caminhadas.
 
