@@ -25,11 +25,22 @@ App desenvolvido em Flutter para registrar e acompanhar caminhadas.
 
 1. Clone o Repositório
 
-2. Use os comandos
+2. Entre na pasta do projeto
+
+3. Instale as dependências
+
 ```bash
 flutter pub get
+```
+
+4. Execute o aplicativo
+
+```bash
 flutter run
 ```
+
+> Para testar o GPS e a câmera, utilize um dispositivo Android ou um emulador Android.
+
 
 ## Screenshots
 
